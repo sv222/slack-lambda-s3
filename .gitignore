@@ -1,0 +1,18 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+vendor/
+node_modules/
+
+# Temporary files
+*~
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
